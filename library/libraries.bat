@@ -1,13 +1,3 @@
 pip install Appium-Python-Client==1.2.0
-pip install decorator==5.0.9
-pip install docutils==0.17.1
-pip install kitchen==1.2.6
-pip install robot==20071211
 pip install robotframework==4.1
 pip install robotframework-appiumlibrary==1.6.2
-pip install selenium==3.141.0
-pip install six==1.16.0
-pip install style==1.1.6
-pip install update==0.0.1
-pip install urllib3==1.26.6
-pip install xlwt==1.3.0
